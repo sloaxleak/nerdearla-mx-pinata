@@ -3,14 +3,14 @@
 // TODO 4: ¿Qué tiene tu piñata adentro?
 // Pon cada cosa entre comillas y sepáralas con comas. En el celular puedes usar el teclado de emojis.
 // Ejemplo: const dulces = ['🍬', '🍭', '🥜', '🍊', '🦖'];
-const dulces = ['🍬', '🍭', '🍫', '🥜', '🍊', '🍡'];
+const dulces = ['🌲','🎁','🍬', '🍭', '🍫', '🥜', '🍊', '🍡'];
 
 // TODO 5: ¿Cuántos picos tiene tu piñata?
 // La piñata tradicional tiene 7. Prueba con un número del 3 al 12.
-const picos = 7;
+const picos = 9;
 
 // TODO 6: ¿Cuántos golpes aguanta antes de romperse?
-const resistencia = 8;
+const resistencia = 5;
 
 // TODO 7: ¿Qué tan traviesa es la persona que jala la cuerda? Elige del 0 al 3.
 // 0 = no se mueve, 1 = se mece, 2 = la suben, la bajan y le dan jalones, 3 = no tiene piedad
